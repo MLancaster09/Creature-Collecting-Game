@@ -1,0 +1,41 @@
+{
+    "pufflin": {
+        "type":"normal", 
+        "HP": 45, 
+        "attack":20, 
+        "defence":15, 
+        "speed":3,
+         "catch_rate": 1},
+    "cinderlet": {
+        "type": "fire",
+        "HP":50,
+        "attack":25,
+        "defence":15,
+        "speed":3,
+        "catch_rate":0.7
+    },
+    "bubblit": {
+        "type": "water",
+        "HP":55,
+        "attack":20,
+        "defence":15,
+        "speed":2,
+        "catch_rate":0.6
+    },
+    "mossprig": {
+        "type": "grass",
+        "HP":35,
+        "attack":25,
+        "defence":20,
+        "speed":3,
+        "catch_rate":0.7
+    },
+    "fayluff": {
+        "type": "magic",
+        "HP":50,
+        "attack":30,
+        "defence":25,
+        "speed":4,
+        "catch_rate":0.7
+    }
+}
